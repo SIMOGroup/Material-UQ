@@ -1,0 +1,15 @@
+loguru
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+bandit
+black
+flake8
+networkx
+pre-commit
+pytest
+FrEIA
+POT
+scipy
